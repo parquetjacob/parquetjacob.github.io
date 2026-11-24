@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://parquetjacob.github.io/sitemap.xml
