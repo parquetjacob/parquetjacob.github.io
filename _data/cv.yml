@@ -1,189 +1,182 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Jacob Parquet
+  label: M.S. Student in Biostatistics
+  email: jp8065@nyu.edu
+  location: New York, NY
+  image: ''
+  summary: Biostatistics M.S. student at NYU working on statistical methods for observational and longitudinal health data, with applications to health disparities, substance use, and the biology of social stress.
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+  - network: GitHub
+    username: parquetjacob
+  - network: LinkedIn
+    username: jacob-parquet
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
+    - institution: New York University, School of Global Public Health
+      location: New York, NY
+      url: https://publichealth.nyu.edu/
+      area: Biostatistics
+      studyType: M.S.
+      start_date: 2025-09
+      end_date: 2027-05
+      highlights:
+      - 'GPA: 4.00/4.00'
+      - Advanced Certificate in Public Health Data Science
+    - institution: Purdue University, College of Science
+      location: West Lafayette, IN
+      url: https://www.purdue.edu/
+      area: Applied Statistics
+      studyType: B.S.
+      start_date: 2020-08
+      end_date: 2024-05
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
+    - company: Researching Criminalization and Public Health Lab, New York University
+      position: Research Assistant
+      location: New York, NY
+      start_date: 2026-09
+      end_date: present
+      summary: 'Mentors: Dr. Saba Rouhani, Dr. Jemar R. Bather, Dr. Diana Silver'
+      highlights:
+      - Quantified spatiotemporal associations between drug distribution crimes and gun violence victimization in Chicago (2015-2025) using negative binomial regression with two-way fixed effects.
+      - Tested whether narcotics seizures are associated with excess space-time clustering of gun violence using a two-sample Knox test.
+    - company: Office of the Dean, NYU School of Global Public Health
+      position: Research Associate
+      location: New York, NY
+      start_date: 2025-12
+      end_date: present
+      summary: 'Mentors: Dr. Melody S. Goodman, Dr. Jemar R. Bather'
+      highlights:
+      - Evaluated multi-level interventions to increase physical activity in a community-based cluster randomized trial, integrating screening, survey, and wearable device data across time points.
+      - Conducted mixed-effects change-score analyses adjusting for mediators and moderators.
+    - company: Biosocial Approaches to Stress and Embodiment (BASE) Lab, New York University
+      position: Research Assistant
+      location: New York, NY
+      start_date: 2025-09
+      end_date: present
+      summary: 'Mentors: Dr. Jemar R. Bather, Dr. Yun Soo Hong, Dr. Adolfo Cuevas'
+      highlights:
+      - Contributed to manuscripts linking psychosocial stressors (discrimination, occupational demands, perceived health risk, religiosity, social media use) to gene expression, allostatic load, and epigenetic aging.
+      - Authored methods and results sections, translating complex analyses into publication-ready writing.
+    - company: Division of Biostatistics, Weill Cornell Medicine
+      position: Biostatistics Graduate Research Intern and Teaching Assistant
+      location: New York, NY
+      start_date: 2026-06
+      end_date: 2026-07
+      summary: 'Mentors: Dr. Judy Zhong, Caroline Andy'
+      highlights:
+      - Reviewed statistical approaches for evaluating medication for opioid use disorder (MOUD) after jail release, focusing on time to reincarceration and healthcare costs (PI - Dr. Mila Sun).
+      - Performed a cost-effectiveness analysis of a novel pharmacological treatment vs. standard of care for pregnant women with opioid use disorder (PI - Dr. Ali Jalali).
+    - company: Division of Biostatistics, Weill Cornell Medicine
+      position: Biostatistics Graduate Research Intern
+      location: New York, NY
+      start_date: 2024-06
+      end_date: 2024-08
+      summary: 'Mentors: Dr. Judy Zhong, Caroline Andy'
+      highlights:
+      - Designed and conducted the statistical analysis plan for a study of temporal trends in the association between drug use and suicidality (PI - Dr. Wenna Xi).
+    - company: NYU School of Global Public Health
+      position: Peer Connections Mentor
+      location: New York, NY
+      start_date: 2026-10
+      end_date: present
+      summary: Mentor 3 students with regular meetings and goal-setting for academic success and community engagement.
+    - company: Weill Cornell Medicine
+      position: Research Biostatistician Teaching Assistant
+      location: New York, NY
+      start_date: 2026-06
+      end_date: 2026-07
+      summary: Provided statistical guidance on independent research projects to 9 undergraduate students.
+    - company: NYU School of Global Public Health
+      position: Unibuddy Ambassador
+      location: New York, NY
+      start_date: 2026-05
+      end_date: present
+      summary: Primary point of contact for incoming students; Q&A panels, webinars, and orientation.
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
+    - title: 'Trends in associations between substance use and suicidality and patterns of current substance use in US adolescents: A repeated cross-sectional study'
+      authors:
+      - Caroline Andy
+      - Xiafei Wang
+      - Jacob Parquet
+      - Adriel Strickland
+      - Fabiola Etienne
+      - Veer Vekaria
+      - Wenna Xi
+      publisher: American Journal of Preventive Medicine
+      releaseDate: 2026-04-08
+      url: https://www.sciencedirect.com/science/article/pii/S0749379726001182
+    - title: Religiosity, Spirituality, and Women's Aging Anxiety
+      authors:
+      - A. A. Crump
+      - J. R. Bather
+      - Jacob Parquet
+      - et al.
+      publisher: Under review
+      releaseDate: 2026
+    - title: 'Optimal PHQ-2 Depression Screening Thresholds Among Non-Hispanic Black Adults: Evidence from NHANES 2017-2020'
+      authors:
+      - N. J. Maxey
+      - J. D. Parquet
+      - T. Griffen
+      - Jacob Parquet
+      - E. Young
+      publisher: Under review
+      releaseDate: 2026
+    - title: Assessing Racial Disparities in Healthcare Expenditure Using Generalized Propensity Score Weighting
+      authors:
+      - Jacob Parquet
+      publisher: Invited talk, NYU Global Public Health Journal Club (National Minority Health Month).
+      releaseDate: 2026-04
+    - title: 'Racial and Urban-Rural Disparities in Lung Cancer Care: Insight from a Latent Class Growth Analysis'
+      authors:
+      - Jacob Parquet
+      publisher: Invited talk, NYU Global Public Health Journal Club.
+      releaseDate: 2025-12
+    - title: Characterizing Temporal Trends in the Association between Substance Use and Suicidality Among US Adolescents
+      authors:
+      - Caroline Andy
+      - Jacob Parquet
+      - et al.
+      publisher: Abstract, AcademyHealth Annual Research Meeting.
+      releaseDate: '2025'
+    - title: I AM GPH Podcast
+      authors:
+      - Jacob Parquet
+      publisher: Discussed BASE Lab research on discrimination, biological aging, and inflammation for a general audience.
+      releaseDate: 2026-10
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    - name: 'Perceived Stress Scale in Midlife Adults: Reliability and Validity'
+      summary: Psychometric evaluation of the PSS-10 using MIDUS biomarker data in R (Cronbach's alpha, confirmatory factor analysis, validity testing).
+      highlights:
+      - Confirmed a two-factor (Helplessness/Self-Efficacy) structure over a unidimensional model.
+      start_date: 2026-07
+      end_date: 2026-07
+    - name: Predicting 10-Year Coronary Heart Disease Risk Using Machine Learning
+      summary: SMOTE, KNN, random forest, and XGBoost in R on Framingham Heart Study data (n = 4,240).
+      highlights:
+      - Diagnosed overfitting from SMOTE-induced distributional shift (0.29 AUC drop from cross-validation to test set).
+      start_date: 2026-05
+      end_date: 2026-05
+    - name: Assessing Depression and Memory in Older Adults (NHANES 2021-2023)
+      summary: Hierarchical logistic and linear regression in Stata assessing confounding and effect modification (n = 4,683).
+      highlights:
+      - Found difficulty remembering/concentrating associated with depression (adjusted OR = 3.63).
+      start_date: 2026-05
+      end_date: 2026-05
+    - name: Redlining and Health Disparities Through Agent-Based Modeling
+      summary: Extended a NetLogo segregation model with an SEIR disease module and composite health score; tested 12+ policy scenarios.
+      start_date: 2026-05
+      end_date: 2026-05
+    Skills:
+    - name: Advanced
+      icon: fa-solid fa-code
+      keywords: R, SAS, Python, Stata, LaTeX
+    - name: Intermediate
+      icon: fa-solid fa-code
+      keywords: SQL, NetLogo
+    - name: Methods
+      icon: fa-solid fa-chart-line
+      keywords: GLMs, mixed-effects models, fixed-effects panel models, spatiotemporal analysis, propensity score weighting, psychometrics, cost-effectiveness analysis, machine learning
+    - name: Memberships
+      icon: fa-solid fa-users
+      keywords: American Statistical Association (2024-present), International Biometric Society ENAR (2026-present)
