@@ -357,7 +357,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Parquet]
-  first_name: [Jacob, B.]
+  first_name: [Jacob]
 
   style: apa
   locale: en
