@@ -2,33 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: M.S. Student in Biostatistics, <a href='https://publichealth.nyu.edu/'>NYU School of Global Public Health</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Biostatistics</p>
+    <p>NYU School of Global Public Health</p>
+    <p>New York, NY</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an M.S. student in Biostatistics at the **NYU School of Global Public Health**, also completing an Advanced Certificate in Public Health Data Science, where I am mentored by [Dr. Jemar R. Bather](https://jemarbather.github.io/). I am applying to Ph.D. programs in Biostatistics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Research interests.** I am interested in statistical methods for observational and longitudinal health data — including causal inference, spatiotemporal modeling, and mixed-effects models — with applications to health disparities, substance use, and the biological embodiment of social stress.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**M.S. thesis.** My thesis, advised by Dr. Jemar R. Bather, will assess psychosocial determinants of differential retention in health research. Using [Midlife in the United States](https://midus.wisc.edu/), I plan to employ generalized estimating equations, with the goal of establishing psychosocial predicitors of attrition.
+
+**Current work.** At NYU, I work across three research groups. In the [Researching Criminalization and Public Health Lab](https://publichealth.nyu.edu/research/labs/researching-criminalization-and-public-health-recap-lab), with Drs. Saba Rouhani, Jemar R. Bather, Diana Silver, I study spatiotemporal links between drug-law enforcement and gun violence in Chicago, using two-way fixed-effects negative binomial models and Knox tests for space-time clustering. In the [Biosocial Approaches to Stress and Embodiment (BASE) Lab](https://publichealth.nyu.edu/research/labs/biosocial-approaches-stress-and-embodiment-base-lab), I lead methods and results writing for manuscripts on how discrimination and other psychosocial stressors relate to gene expression, allostatic load, and epigenetic aging. As a Research Associate in the Office of the Dean, I analyze a community-based cluster randomized trial of interventions to increase physical activity.
+
+**Previously.** As a Biostatistics Graduate Research Intern at [Weill Cornell Medicine](https://phs.weill.cornell.edu/research-collaboration/our-divisions/biostatistics) (2024, 2026), I designed the analysis plan for a study of trends in substance use and suicidality among U.S. adolescents (now published in the *American Journal of Preventive Medicine*), reviewed methods for evaluating medication for opioid use disorder after jail release, and conducted a cost-effectiveness analysis of buprenorphine formulations for pregnant women with opioid use disorder.
+
+**Education.**
+- M.S. in Biostatistics, New York University, 2027 (expected)
+- B.S. in Applied Statistics, Purdue University, 2024
